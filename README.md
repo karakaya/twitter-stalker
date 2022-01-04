@@ -10,3 +10,7 @@ export Bearer {Your Bearer Token Here}
 go run main -inerval 10m -userId 12345
 ```
 
+### ToDo
+ * Fix shitty architecture
+
+
